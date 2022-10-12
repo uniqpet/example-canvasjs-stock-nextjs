@@ -108,6 +108,12 @@ export default function CandleChart({}) {
         ],
       },
     ],
+    // rangeSelector: {
+    //   enabled: false,
+    // },
+    // navigator: {
+    //   enabled: false,
+    // },
   };
 
   const containerProps = {
